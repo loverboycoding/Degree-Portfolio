@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\CounterTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE57511-9306-44A1-9174-97F6CD9231BB}|CounterTask\\CounterTask.csproj|c:\\users\\joshu\\onedrive\\desktop\\cos20007 oop\\countertask\\countertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE57511-9306-44A1-9174-97F6CD9231BB}|CounterTask\\CounterTask.csproj|solutionrelative:countertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE57511-9306-44A1-9174-97F6CD9231BB}|CounterTask\\CounterTask.csproj|c:\\users\\joshu\\onedrive\\desktop\\cos20007 oop\\countertask\\countertask\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE57511-9306-44A1-9174-97F6CD9231BB}|CounterTask\\CounterTask.csproj|solutionrelative:countertask\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE57511-9306-44A1-9174-97F6CD9231BB}|CounterTask\\CounterTask.csproj|c:\\users\\joshu\\onedrive\\desktop\\cos20007 oop\\countertask\\countertask\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE57511-9306-44A1-9174-97F6CD9231BB}|CounterTask\\CounterTask.csproj|solutionrelative:countertask\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B09D3EC5-FD41-49CE-8A7B-855FB1A30D0B}|TestClock\\TestClock.csproj|c:\\users\\joshu\\onedrive\\desktop\\cos20007 oop\\countertask\\testclock\\clocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09D3EC5-FD41-49CE-8A7B-855FB1A30D0B}|TestClock\\TestClock.csproj|solutionrelative:testclock\\clocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{917C3B4B-81FE-4C83-A483-2B200B73CFC3}|TestCounter\\TestCounter.csproj|c:\\users\\joshu\\onedrive\\desktop\\cos20007 oop\\countertask\\testcounter\\countertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{917C3B4B-81FE-4C83-A483-2B200B73CFC3}|TestCounter\\TestCounter.csproj|solutionrelative:testcounter\\countertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE57511-9306-44A1-9174-97F6CD9231BB}|CounterTask\\CounterTask.csproj|c:\\users\\joshu\\onedrive\\desktop\\cos20007 oop\\countertask\\countertask\\countertask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EE57511-9306-44A1-9174-97F6CD9231BB}|CounterTask\\CounterTask.csproj|solutionrelative:countertask\\countertask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClockTest.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\CounterTask\\TestClock\\ClockTest.cs",
+              "RelativeDocumentMoniker": "TestClock\\ClockTest.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\CounterTask\\TestClock\\ClockTest.cs",
+              "RelativeToolTip": "TestClock\\ClockTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:15:42.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CounterTask.csproj",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\CounterTask\\CounterTask\\CounterTask.csproj",
+              "RelativeDocumentMoniker": "CounterTask\\CounterTask.csproj",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\CounterTask\\CounterTask\\CounterTask.csproj",
+              "RelativeToolTip": "CounterTask\\CounterTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-10T07:04:09.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Clock.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\CounterTask\\CounterTask\\Clock.cs",
+              "RelativeDocumentMoniker": "CounterTask\\Clock.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\CounterTask\\CounterTask\\Clock.cs",
+              "RelativeToolTip": "CounterTask\\Clock.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:06:21.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CounterTest.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\CounterTask\\TestCounter\\CounterTest.cs",
+              "RelativeDocumentMoniker": "TestCounter\\CounterTest.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\CounterTask\\TestCounter\\CounterTest.cs",
+              "RelativeToolTip": "TestCounter\\CounterTest.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:44:04.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\CounterTask\\CounterTask\\Counter.cs",
+              "RelativeDocumentMoniker": "CounterTask\\Counter.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\CounterTask\\CounterTask\\Counter.cs",
+              "RelativeToolTip": "CounterTask\\Counter.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:15:11.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\CounterTask\\CounterTask\\Program.cs",
+              "RelativeDocumentMoniker": "CounterTask\\Program.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\CounterTask\\CounterTask\\Program.cs",
+              "RelativeToolTip": "CounterTask\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:14:25.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

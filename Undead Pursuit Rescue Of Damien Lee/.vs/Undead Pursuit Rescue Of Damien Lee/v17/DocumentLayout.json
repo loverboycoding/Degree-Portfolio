@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joshu\\OneDrive\\Desktop\\Undead Pursuit Rescue Of Damien Lee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD431C14-4CE0-4B8B-9A03-507C5109DA72}|Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee.csproj|c:\\users\\joshu\\onedrive\\desktop\\undead pursuit rescue of damien lee\\undead pursuit rescue of damien lee\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD431C14-4CE0-4B8B-9A03-507C5109DA72}|Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee.csproj|solutionrelative:undead pursuit rescue of damien lee\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD431C14-4CE0-4B8B-9A03-507C5109DA72}|Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee.csproj|c:\\users\\joshu\\onedrive\\desktop\\undead pursuit rescue of damien lee\\undead pursuit rescue of damien lee\\icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{AD431C14-4CE0-4B8B-9A03-507C5109DA72}|Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee.csproj|solutionrelative:undead pursuit rescue of damien lee\\icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD431C14-4CE0-4B8B-9A03-507C5109DA72}|Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee.csproj|c:\\users\\joshu\\onedrive\\desktop\\undead pursuit rescue of damien lee\\undead pursuit rescue of damien lee\\content\\obj\\windows\\net6.0-windows\\content\\.mgstats||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD431C14-4CE0-4B8B-9A03-507C5109DA72}|Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee.csproj|solutionrelative:undead pursuit rescue of damien lee\\content\\obj\\windows\\net6.0-windows\\content\\.mgstats||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD431C14-4CE0-4B8B-9A03-507C5109DA72}|Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee.csproj|c:\\users\\joshu\\onedrive\\desktop\\undead pursuit rescue of damien lee\\undead pursuit rescue of damien lee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD431C14-4CE0-4B8B-9A03-507C5109DA72}|Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee.csproj|solutionrelative:undead pursuit rescue of damien lee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD431C14-4CE0-4B8B-9A03-507C5109DA72}|Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee.csproj|c:\\users\\joshu\\onedrive\\desktop\\undead pursuit rescue of damien lee\\undead pursuit rescue of damien lee\\undead pursuit rescue of damien lee.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD431C14-4CE0-4B8B-9A03-507C5109DA72}|Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee.csproj|solutionrelative:undead pursuit rescue of damien lee\\undead pursuit rescue of damien lee.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".mgstats",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee\\Content\\obj\\Windows\\net6.0-windows\\Content\\.mgstats",
+              "RelativeDocumentMoniker": "Undead Pursuit Rescue Of Damien Lee\\Content\\obj\\Windows\\net6.0-windows\\Content\\.mgstats",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee\\Content\\obj\\Windows\\net6.0-windows\\Content\\.mgstats",
+              "RelativeToolTip": "Undead Pursuit Rescue Of Damien Lee\\Content\\obj\\Windows\\net6.0-windows\\Content\\.mgstats",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-10T06:33:37.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Icon.ico -  [English (United States)] - Icon [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee\\Icon.ico",
+              "RelativeDocumentMoniker": "Undead Pursuit Rescue Of Damien Lee\\Icon.ico",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee\\Icon.ico -  [English (United States)] - Icon [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "Undead Pursuit Rescue Of Damien Lee\\Icon.ico -  [English (United States)] - Icon [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-10-10T06:28:42.507Z",
+              "EditorCaption": " -  [English (United States)] - Icon [256x256, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee\\Game1.cs",
+              "RelativeDocumentMoniker": "Undead Pursuit Rescue Of Damien Lee\\Game1.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee\\Game1.cs",
+              "RelativeToolTip": "Undead Pursuit Rescue Of Damien Lee\\Game1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:28:33.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee\\Program.cs",
+              "RelativeDocumentMoniker": "Undead Pursuit Rescue Of Damien Lee\\Program.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee\\Program.cs",
+              "RelativeToolTip": "Undead Pursuit Rescue Of Damien Lee\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:28:27.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Undead Pursuit Rescue Of Damien Lee.csproj",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee.csproj",
+              "RelativeDocumentMoniker": "Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee.csproj",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee.csproj",
+              "RelativeToolTip": "Undead Pursuit Rescue Of Damien Lee\\Undead Pursuit Rescue Of Damien Lee.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T06:28:26.011Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

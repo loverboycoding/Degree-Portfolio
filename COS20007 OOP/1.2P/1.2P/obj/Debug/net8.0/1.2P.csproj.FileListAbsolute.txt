@@ -1,0 +1,14 @@
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\1.2P\1.2P\obj\Debug\net8.0\1.2P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\1.2P\1.2P\obj\Debug\net8.0\1.2P.AssemblyInfoInputs.cache
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\1.2P\1.2P\obj\Debug\net8.0\1.2P.AssemblyInfo.cs
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\1.2P\1.2P\obj\Debug\net8.0\1.2P.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\1.2P\1.2P\bin\Debug\net8.0\1.2P.exe
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\1.2P\1.2P\bin\Debug\net8.0\1.2P.deps.json
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\1.2P\1.2P\bin\Debug\net8.0\1.2P.runtimeconfig.json
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\1.2P\1.2P\bin\Debug\net8.0\1.2P.dll
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\1.2P\1.2P\bin\Debug\net8.0\1.2P.pdb
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\1.2P\1.2P\obj\Debug\net8.0\1.2P.dll
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\1.2P\1.2P\obj\Debug\net8.0\refint\1.2P.dll
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\1.2P\1.2P\obj\Debug\net8.0\1.2P.pdb
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\1.2P\1.2P\obj\Debug\net8.0\1.2P.genruntimeconfig.cache
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\1.2P\1.2P\obj\Debug\net8.0\ref\1.2P.dll

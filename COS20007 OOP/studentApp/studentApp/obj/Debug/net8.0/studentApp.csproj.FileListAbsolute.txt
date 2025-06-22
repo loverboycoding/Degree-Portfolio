@@ -1,0 +1,28 @@
+C:\Users\joshu\source\repos\studentApp\studentApp\bin\Debug\net8.0\studentApp.exe
+C:\Users\joshu\source\repos\studentApp\studentApp\bin\Debug\net8.0\studentApp.deps.json
+C:\Users\joshu\source\repos\studentApp\studentApp\bin\Debug\net8.0\studentApp.runtimeconfig.json
+C:\Users\joshu\source\repos\studentApp\studentApp\bin\Debug\net8.0\studentApp.dll
+C:\Users\joshu\source\repos\studentApp\studentApp\bin\Debug\net8.0\studentApp.pdb
+C:\Users\joshu\source\repos\studentApp\studentApp\obj\Debug\net8.0\studentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\source\repos\studentApp\studentApp\obj\Debug\net8.0\studentApp.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\studentApp\studentApp\obj\Debug\net8.0\studentApp.AssemblyInfo.cs
+C:\Users\joshu\source\repos\studentApp\studentApp\obj\Debug\net8.0\studentApp.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\studentApp\studentApp\obj\Debug\net8.0\studentApp.dll
+C:\Users\joshu\source\repos\studentApp\studentApp\obj\Debug\net8.0\refint\studentApp.dll
+C:\Users\joshu\source\repos\studentApp\studentApp\obj\Debug\net8.0\studentApp.pdb
+C:\Users\joshu\source\repos\studentApp\studentApp\obj\Debug\net8.0\studentApp.genruntimeconfig.cache
+C:\Users\joshu\source\repos\studentApp\studentApp\obj\Debug\net8.0\ref\studentApp.dll
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\studentApp\studentApp\bin\Debug\net8.0\studentApp.exe
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\studentApp\studentApp\bin\Debug\net8.0\studentApp.deps.json
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\studentApp\studentApp\bin\Debug\net8.0\studentApp.runtimeconfig.json
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\studentApp\studentApp\bin\Debug\net8.0\studentApp.dll
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\studentApp\studentApp\bin\Debug\net8.0\studentApp.pdb
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\studentApp\studentApp\obj\Debug\net8.0\studentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\studentApp\studentApp\obj\Debug\net8.0\studentApp.AssemblyInfoInputs.cache
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\studentApp\studentApp\obj\Debug\net8.0\studentApp.AssemblyInfo.cs
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\studentApp\studentApp\obj\Debug\net8.0\studentApp.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\studentApp\studentApp\obj\Debug\net8.0\studentApp.dll
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\studentApp\studentApp\obj\Debug\net8.0\refint\studentApp.dll
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\studentApp\studentApp\obj\Debug\net8.0\studentApp.pdb
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\studentApp\studentApp\obj\Debug\net8.0\studentApp.genruntimeconfig.cache
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\studentApp\studentApp\obj\Debug\net8.0\ref\studentApp.dll

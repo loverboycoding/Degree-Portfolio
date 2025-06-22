@@ -1,0 +1,28 @@
+C:\Users\joshu\source\repos\CounterTask\CounterTask\bin\Debug\net8.0\CounterTask.exe
+C:\Users\joshu\source\repos\CounterTask\CounterTask\bin\Debug\net8.0\CounterTask.deps.json
+C:\Users\joshu\source\repos\CounterTask\CounterTask\bin\Debug\net8.0\CounterTask.runtimeconfig.json
+C:\Users\joshu\source\repos\CounterTask\CounterTask\bin\Debug\net8.0\CounterTask.dll
+C:\Users\joshu\source\repos\CounterTask\CounterTask\bin\Debug\net8.0\CounterTask.pdb
+C:\Users\joshu\source\repos\CounterTask\CounterTask\obj\Debug\net8.0\CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\source\repos\CounterTask\CounterTask\obj\Debug\net8.0\CounterTask.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\CounterTask\CounterTask\obj\Debug\net8.0\CounterTask.AssemblyInfo.cs
+C:\Users\joshu\source\repos\CounterTask\CounterTask\obj\Debug\net8.0\CounterTask.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\CounterTask\CounterTask\obj\Debug\net8.0\CounterTask.dll
+C:\Users\joshu\source\repos\CounterTask\CounterTask\obj\Debug\net8.0\refint\CounterTask.dll
+C:\Users\joshu\source\repos\CounterTask\CounterTask\obj\Debug\net8.0\CounterTask.pdb
+C:\Users\joshu\source\repos\CounterTask\CounterTask\obj\Debug\net8.0\CounterTask.genruntimeconfig.cache
+C:\Users\joshu\source\repos\CounterTask\CounterTask\obj\Debug\net8.0\ref\CounterTask.dll
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\CounterTask\CounterTask\bin\Debug\net8.0\CounterTask.exe
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\CounterTask\CounterTask\bin\Debug\net8.0\CounterTask.deps.json
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\CounterTask\CounterTask\bin\Debug\net8.0\CounterTask.runtimeconfig.json
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\CounterTask\CounterTask\bin\Debug\net8.0\CounterTask.dll
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\CounterTask\CounterTask\bin\Debug\net8.0\CounterTask.pdb
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\CounterTask\CounterTask\obj\Debug\net8.0\CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\CounterTask\CounterTask\obj\Debug\net8.0\CounterTask.AssemblyInfoInputs.cache
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\CounterTask\CounterTask\obj\Debug\net8.0\CounterTask.AssemblyInfo.cs
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\CounterTask\CounterTask\obj\Debug\net8.0\CounterTask.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\CounterTask\CounterTask\obj\Debug\net8.0\CounterTask.dll
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\CounterTask\CounterTask\obj\Debug\net8.0\refint\CounterTask.dll
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\CounterTask\CounterTask\obj\Debug\net8.0\CounterTask.pdb
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\CounterTask\CounterTask\obj\Debug\net8.0\CounterTask.genruntimeconfig.cache
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\CounterTask\CounterTask\obj\Debug\net8.0\ref\CounterTask.dll

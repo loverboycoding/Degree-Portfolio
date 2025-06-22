@@ -1,0 +1,42 @@
+C:\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.AssemblyInfoInputs.cache
+C:\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.AssemblyInfo.cs
+C:\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.csproj.CoreCompileInputs.cache
+C:\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.exe
+C:\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.deps.json
+C:\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.runtimeconfig.json
+C:\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.dll
+C:\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.pdb
+C:\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.dll
+C:\ShapeDrawer\obj\Debug\net8.0\refint\ShapeDrawer.dll
+C:\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.pdb
+C:\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.genruntimeconfig.cache
+C:\ShapeDrawer\obj\Debug\net8.0\ref\ShapeDrawer.dll
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.exe
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.deps.json
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.runtimeconfig.json
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.dll
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.pdb
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.AssemblyInfoInputs.cache
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.AssemblyInfo.cs
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.dll
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer\obj\Debug\net8.0\refint\ShapeDrawer.dll
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.pdb
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.genruntimeconfig.cache
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer\obj\Debug\net8.0\ref\ShapeDrawer.dll
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer - 3.3\bin\Debug\net8.0\ShapeDrawer.exe
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer - 3.3\bin\Debug\net8.0\ShapeDrawer.deps.json
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer - 3.3\bin\Debug\net8.0\ShapeDrawer.runtimeconfig.json
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer - 3.3\bin\Debug\net8.0\ShapeDrawer.dll
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer - 3.3\bin\Debug\net8.0\ShapeDrawer.pdb
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer - 3.3\obj\Debug\net8.0\ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer - 3.3\obj\Debug\net8.0\ShapeDrawer.AssemblyInfoInputs.cache
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer - 3.3\obj\Debug\net8.0\ShapeDrawer.AssemblyInfo.cs
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer - 3.3\obj\Debug\net8.0\ShapeDrawer.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer - 3.3\obj\Debug\net8.0\ShapeDrawer.dll
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer - 3.3\obj\Debug\net8.0\refint\ShapeDrawer.dll
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer - 3.3\obj\Debug\net8.0\ShapeDrawer.pdb
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer - 3.3\obj\Debug\net8.0\ShapeDrawer.genruntimeconfig.cache
+C:\Users\joshu\OneDrive\Desktop\COS20007 OOP\ShapeDrawer - 3.3\obj\Debug\net8.0\ref\ShapeDrawer.dll

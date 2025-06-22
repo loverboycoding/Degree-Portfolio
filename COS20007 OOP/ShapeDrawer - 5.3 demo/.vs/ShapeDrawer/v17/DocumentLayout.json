@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\ShapeDrawer - 5.3 demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71E669FC-6DE8-446B-A6E7-178D2618771C}|ShapeDrawer.csproj|c:\\users\\joshu\\onedrive\\desktop\\cos20007 oop\\shapedrawer - 5.3 demo\\testdrawing.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{71E669FC-6DE8-446B-A6E7-178D2618771C}|ShapeDrawer.csproj|solutionrelative:testdrawing.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E669FC-6DE8-446B-A6E7-178D2618771C}|ShapeDrawer.csproj|c:\\users\\joshu\\onedrive\\desktop\\cos20007 oop\\shapedrawer - 5.3 demo\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E669FC-6DE8-446B-A6E7-178D2618771C}|ShapeDrawer.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E669FC-6DE8-446B-A6E7-178D2618771C}|ShapeDrawer.csproj|c:\\users\\joshu\\onedrive\\desktop\\cos20007 oop\\shapedrawer - 5.3 demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E669FC-6DE8-446B-A6E7-178D2618771C}|ShapeDrawer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E669FC-6DE8-446B-A6E7-178D2618771C}|ShapeDrawer.csproj|c:\\users\\joshu\\onedrive\\desktop\\cos20007 oop\\shapedrawer - 5.3 demo\\myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E669FC-6DE8-446B-A6E7-178D2618771C}|ShapeDrawer.csproj|solutionrelative:myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E669FC-6DE8-446B-A6E7-178D2618771C}|ShapeDrawer.csproj|c:\\users\\joshu\\onedrive\\desktop\\cos20007 oop\\shapedrawer - 5.3 demo\\myline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E669FC-6DE8-446B-A6E7-178D2618771C}|ShapeDrawer.csproj|solutionrelative:myline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E669FC-6DE8-446B-A6E7-178D2618771C}|ShapeDrawer.csproj|c:\\users\\joshu\\onedrive\\desktop\\cos20007 oop\\shapedrawer - 5.3 demo\\mycircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E669FC-6DE8-446B-A6E7-178D2618771C}|ShapeDrawer.csproj|solutionrelative:mycircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E669FC-6DE8-446B-A6E7-178D2618771C}|ShapeDrawer.csproj|c:\\users\\joshu\\onedrive\\desktop\\cos20007 oop\\shapedrawer - 5.3 demo\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E669FC-6DE8-446B-A6E7-178D2618771C}|ShapeDrawer.csproj|solutionrelative:drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E669FC-6DE8-446B-A6E7-178D2618771C}|ShapeDrawer.csproj|c:\\users\\joshu\\onedrive\\desktop\\cos20007 oop\\shapedrawer - 5.3 demo\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E669FC-6DE8-446B-A6E7-178D2618771C}|ShapeDrawer.csproj|solutionrelative:extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E669FC-6DE8-446B-A6E7-178D2618771C}|ShapeDrawer.csproj|c:\\users\\joshu\\onedrive\\desktop\\cos20007 oop\\shapedrawer - 5.3 demo\\shapedrawer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71E669FC-6DE8-446B-A6E7-178D2618771C}|ShapeDrawer.csproj|solutionrelative:shapedrawer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyLine.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\ShapeDrawer - 5.3 demo\\MyLine.cs",
+              "RelativeDocumentMoniker": "MyLine.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\ShapeDrawer - 5.3 demo\\MyLine.cs",
+              "RelativeToolTip": "MyLine.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:56:21.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestDrawing.txt",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\ShapeDrawer - 5.3 demo\\TestDrawing.txt",
+              "RelativeDocumentMoniker": "TestDrawing.txt",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\ShapeDrawer - 5.3 demo\\TestDrawing.txt",
+              "RelativeToolTip": "TestDrawing.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-03T12:44:33.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExtensionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\ShapeDrawer - 5.3 demo\\ExtensionMethods.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\ShapeDrawer - 5.3 demo\\ExtensionMethods.cs",
+              "RelativeToolTip": "ExtensionMethods.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:46:02.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyCircle.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\ShapeDrawer - 5.3 demo\\MyCircle.cs",
+              "RelativeDocumentMoniker": "MyCircle.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\ShapeDrawer - 5.3 demo\\MyCircle.cs",
+              "RelativeToolTip": "MyCircle.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:19:14.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Drawing.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\ShapeDrawer - 5.3 demo\\Drawing.cs",
+              "RelativeDocumentMoniker": "Drawing.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\ShapeDrawer - 5.3 demo\\Drawing.cs",
+              "RelativeToolTip": "Drawing.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAiwIMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:56:50.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\ShapeDrawer - 5.3 demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\ShapeDrawer - 5.3 demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:26:14.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyRectangle.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\ShapeDrawer - 5.3 demo\\MyRectangle.cs",
+              "RelativeDocumentMoniker": "MyRectangle.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\ShapeDrawer - 5.3 demo\\MyRectangle.cs",
+              "RelativeToolTip": "MyRectangle.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAUwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:10:25.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\ShapeDrawer - 5.3 demo\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\ShapeDrawer - 5.3 demo\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:32:41.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShapeDrawer.csproj",
+              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\ShapeDrawer - 5.3 demo\\ShapeDrawer.csproj",
+              "RelativeDocumentMoniker": "ShapeDrawer.csproj",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Desktop\\COS20007 OOP\\ShapeDrawer - 5.3 demo\\ShapeDrawer.csproj",
+              "RelativeToolTip": "ShapeDrawer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T11:55:43.732Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

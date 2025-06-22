@@ -1,0 +1,9 @@
+SplashKitSDK.Color
+1
+SplashKitSDK.Color
+128
+171
+Rectangle
+300
+100
+255,0,0

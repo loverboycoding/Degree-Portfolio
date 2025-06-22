@@ -1,0 +1,37 @@
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\Undead Pursuit Rescue Of Damien Lee.exe
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\Undead Pursuit Rescue Of Damien Lee.deps.json
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\Undead Pursuit Rescue Of Damien Lee.runtimeconfig.json
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\Undead Pursuit Rescue Of Damien Lee.dll
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\Undead Pursuit Rescue Of Damien Lee.pdb
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\obj\Debug\net6.0-windows\Undead Pursuit Rescue Of Damien Lee.csproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\obj\Debug\net6.0-windows\Undead Pursuit Rescue Of Damien Lee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\obj\Debug\net6.0-windows\Undead Pursuit Rescue Of Damien Lee.AssemblyInfoInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\obj\Debug\net6.0-windows\Undead Pursuit Rescue Of Damien Lee.AssemblyInfo.cs
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\obj\Debug\net6.0-windows\Undead Pursuit Rescue Of Damien Lee.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\obj\Debug\net6.0-windows\Undead P.23E28FBA.Up2Date
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\obj\Debug\net6.0-windows\Undead Pursuit Rescue Of Damien Lee.dll
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\obj\Debug\net6.0-windows\refint\Undead Pursuit Rescue Of Damien Lee.dll
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\obj\Debug\net6.0-windows\Undead Pursuit Rescue Of Damien Lee.pdb
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\obj\Debug\net6.0-windows\Undead Pursuit Rescue Of Damien Lee.genruntimeconfig.cache
+C:\Users\joshu\OneDrive\Desktop\Undead Pursuit Rescue Of Damien Lee\Undead Pursuit Rescue Of Damien Lee\obj\Debug\net6.0-windows\ref\Undead Pursuit Rescue Of Damien Lee.dll
